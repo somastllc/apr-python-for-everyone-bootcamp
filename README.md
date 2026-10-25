@@ -29,25 +29,25 @@ Move from **beginner to builder** by learning Python step by step and applying e
 
 ## 🎥 Course Videos
 
-All lessons are available as **unlisted videos** on the [Goobo Labs YouTube Channel](https://youtube.com/@goobolabs).
+All lessons are available as **unlisted videos** on the [Somast YouTube Channel](https://youtube.com/@somastllc).
 
 Follow them in order for the best learning experience.
 
 | # | Title | Watch |
 |---|--------|--------|
 | 01 | Lesson One — Python Foundations | [▶️ Watch](https://youtu.be/YCp9ktubKxQ) |
-| 02 | Lesson One Homework | [📝 Homework](https://github.com/goobolabs/python-for-everyone-bootcamp/blob/main/01_python_foundations/homework.md) |
+| 02 | Lesson One Homework | [📝 Homework](https://github.com/somastllc/python-for-everyone-bootcamp/blob/main/01_python_foundations/homework.md) |
 | 03 | Lesson Two — Operators and Conditions | [▶️ Watch](https://www.youtube.com/watch?v=HMvCnyHyZhM) |
 | 04 | Lesson Two Assignment | [▶️ Watch](https://www.youtube.com/watch?v=KjQpioObDZ8) |
 | 05 | Lesson Three — Git & GitHub | [▶️ Watch](https://youtu.be/n6kNnDu_axk) |
 | 06 | Lesson Four — Collections and Loops | [▶️ Watch](https://youtu.be/Uwsx5iWc61M) |
-| 07 | Lesson Four Homework | [📝 Homework](https://github.com/goobolabs/python-for-everyone-bootcamp/blob/main/03_collections_and_loops/homework.md) |
+| 07 | Lesson Four Homework | [📝 Homework](https://github.com/somastllc/python-for-everyone-bootcamp/blob/main/03_collections_and_loops/homework.md) |
 | 08 | Lesson Five — Functions | [▶️ Watch](https://youtu.be/goEOk6ayUcs) |
-| 09 | Lesson Five Homework | [📝 Homework](https://github.com/goobolabs/python-for-everyone-bootcamp/blob/main/04_functions/homework.md) |
+| 09 | Lesson Five Homework | [📝 Homework](https://github.com/somastllc/python-for-everyone-bootcamp/blob/main/04_functions/homework.md) |
 | 10 | Lesson Six — Object-Oriented Programming | [▶️ Watch](https://youtu.be/U0bTOe0rBHs) |
-| 11 | Assignment — Study Log Project | [📝 Assignment](https://github.com/goobolabs/python-for-everyone-bootcamp/blob/main/assignments/02-study-log.md) |
+| 11 | Assignment — Study Log Project | [📝 Assignment](https://github.com/somastllc/python-for-everyone-bootcamp/blob/main/assignments/02-study-log.md) |
 | 12 | Lesson Eight — File Handling and Error Handling | [▶️ Watch](https://youtu.be/0RYDox70JXc) |
-| 13 | Assignment — Personal Catalog Project | [📝 Assignment](https://github.com/goobolabs/python-for-everyone-bootcamp/blob/main/assignments/03-personal-catalog.md) |
+| 13 | Assignment — Personal Catalog Project | [📝 Assignment](https://github.com/somastllc/python-for-everyone-bootcamp/blob/main/assignments/03-personal-catalog.md) |
 | 14 | Final Project — Student Management System | [▶️ Watch](https://youtu.be/qMgaWFbGUIE) |
 
 ---
@@ -78,7 +78,7 @@ This bootcamp is fully sponsored by:
 
 ## 📄 License
 
-Copyright © 2026 Goobo Labs. This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Copyright © 2026 Somast. This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
