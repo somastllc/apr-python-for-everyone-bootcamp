@@ -25,6 +25,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-This project was created to practice and demonstrate the skills I learned in the Python for Everyone Bootcamp by [Goobo Labs](https://github.com/goobolabs).
+This project was created to practice and demonstrate the skills I learned in the Python for Everyone Bootcamp by [Somast](https://github.com/somastllc).
 
 The source code for this project is available on [Project](https://github.com/Zaydalli/movie_recommendation_system)
