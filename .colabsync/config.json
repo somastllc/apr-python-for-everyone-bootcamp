@@ -1,0 +1,21 @@
+{
+  "remoteRoot": "/content/apr-python-for-everyone-bootcamp",
+  "autoSync": true,
+  "pollInterval": 10,
+  "deleteSync": false,
+  "include": [
+    "**/*"
+  ],
+  "exclude": [
+    ".git/**",
+    ".venv/**",
+    "node_modules/**",
+    "__pycache__/**",
+    ".Rproj.user/**",
+    ".colabsync/**",
+    "*.tmp",
+    "*.log"
+  ],
+  "maxFileSize": 524288000,
+  "transferConcurrency": 3
+}
